@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"admin"
+	],
+	"copyright": "Copyright ® 2024, admin",
+	"description": "Set of utilities to help working with strings in a @nogc or betterC codes.",
+	"license": "MIT",
+	"name": "string"
+}
